@@ -1,1 +1,1 @@
-# tcc.simple
+# tcc-simple
