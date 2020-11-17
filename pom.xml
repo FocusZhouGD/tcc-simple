@@ -19,11 +19,12 @@
     </properties>
     <packaging>pom</packaging>
     <modules>
-        <module>tcc-rest-api</module>
+        <module>tcc-order-serivce-provider</module>
+        <module>tcc-rest-api-consumer</module>
         <module>tcc-eureka</module>
         <module>tcc-order-service</module>
         <module>tcc-store-service</module>
-    </modules>1
+    </modules>
 
     <dependencies>
         <dependency>

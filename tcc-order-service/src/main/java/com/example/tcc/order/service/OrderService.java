@@ -1,4 +1,6 @@
 package com.example.tcc.order.service;
 
-public class OrderService {
+
+public interface OrderService {
+    String getOrder();
 }
